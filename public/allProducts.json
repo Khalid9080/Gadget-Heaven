@@ -1,0 +1,155 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Acer Aspire 5",
+        "product_image": "https://i.ibb.co.com/cgZwfhf/s-l1200.jpg",
+        "category": "Computers",
+        "price": 549.99,
+        "description": "A versatile laptop with a powerful AMD Ryzen processor.",
+        "Specification": [
+            "15.6-inch Full HD display",
+            "8GB RAM",
+            "512GB SSD",
+            "AMD Radeon graphics"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "brand": "Acer"
+    },
+    {
+        "product_id": 2,
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.ibb.co.com/KL2Pbzp/Samsung-Galaxy-S21-Ultra-5-G.webp",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "The latest flagship smartphone from Samsung with a stunning camera.",
+        "Specification": [
+            "6.2-inch Dynamic AMOLED display",
+            "128GB storage",
+            "8GB RAM",
+            "Triple camera system"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "Samsung"
+    },
+    {
+        "product_id": 3,
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://i.ibb.co.com/CwJhcyz/Apple-watch-series7-hero-09142021-big-jpg-large.jpg",
+        "category": "Smart Watches",
+        "price": 399.99,
+        "description": "The most advanced Apple Watch yet, featuring a larger display.",
+        "Specification": [
+            "Always-On Retina display",
+            "Fitness and health tracking",
+            "Water-resistant",
+            "GPS and cellular options"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "Apple"
+    },
+    {
+        "product_id": 4,
+        "product_title": "Anker PowerPort III Nano",
+        "product_image": "https://i.ibb.co.com/1ngWYP1/AKA2633-SWx.webp",
+        "category": "Chargers",
+        "price": 19.99,
+        "description": "A compact 20W USB-C wall charger for fast charging.",
+        "Specification": [
+            "20W Power Delivery",
+            "Compact design",
+            "Universal compatibility",
+            "1 Year Warranty"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "Anker"
+    },
+    {
+        "product_id": 5,
+        "product_title": "RAVPower 20000mAh Power Bank",
+        "product_image": "https://i.ibb.co.com/LnHZK8C/A-036db757-c6d6-4c21-9cf8-feb55cb9c8cb.webp",
+        "category": "Power Banks",
+        "price": 39.99,
+        "description": "High-capacity portable charger with multiple output ports.",
+        "Specification": [
+            "20000mAh capacity",
+            "3 USB output ports",
+            "Fast charging technology",
+            "3 Years Warranty"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "brand": "RAVPower"
+    },
+    {
+        "product_id": 6,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/D1b4Z7F/notebook-xps-13-9345-t-gray-gallery-4.jpg",
+        "category": "Computers",
+        "price": 999.99,
+        "description": "A premium ultrabook with stunning design and performance.",
+        "Specification": [
+            "13.4-inch 4K display",
+            "16GB RAM",
+            "1TB SSD",
+            "Intel Core i7"
+        ],
+        "availability": false,
+        "rating": 4.9,
+        "brand": "Dell"
+    },
+    {
+        "product_id": 7,
+        "product_title": "Google Pixel 6",
+        "product_image": "https://i.ibb.co.com/9yfvYWf/Google-Pixel-6-Price-in-bangladesh.jpg",
+        "category": "Phones",
+        "price": 599.99,
+        "description": "The ultimate Google phone with advanced camera features.",
+        "Specification": [
+            "6.4-inch OLED display",
+            "128GB storage",
+            "8GB RAM",
+            "Dual-camera system"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "Google"
+    },
+    {
+        "product_id": 8,
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://i.ibb.co.com/0c8fTYQ/Fitbit-Versa-3-Smart-Watch-Black-9119.jpg",
+        "category": "Smart Watches",
+        "price": 229.95,
+        "description": "A versatile smartwatch with built-in GPS and heart rate monitoring.",
+        "Specification": [
+            "Heart rate monitoring",
+            "Built-in GPS",
+            "Alexa built-in",
+            "6+ day battery life"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "brand": "Fitbit"
+    },
+    {
+        "product_id": 9,
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://i.ibb.co.com/D8sJ35B/anker-334-maggo-powercore-10000-mah-battery-slim-wireless-power-bank-1.webp",
+        "category": "Power Banks",
+        "price": 29.99,
+        "description": "Compact and lightweight power bank with fast charging.",
+        "Specification": [
+            "10000mAh capacity",
+            "PowerIQ",
+            "VoltageBoost technologies",
+            "Slim design"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "brand": "Anker"
+    }
+]
